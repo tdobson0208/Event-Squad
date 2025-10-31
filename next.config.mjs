@@ -1,5 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: { typedRoutes: true, serverActions: { allowedOrigins: ['*'] } }
+  /** @type {import('next').NextConfig} */
+const nextConfig = {};
+export default nextConfig;
 }
 export default nextConfig
