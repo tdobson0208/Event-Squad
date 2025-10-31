@@ -1,4 +1,4 @@
-import './globals.module.css'
+import '../styles/globals.css'
 'use client'
 import { useState } from 'react'
 import Link from 'next/link'
