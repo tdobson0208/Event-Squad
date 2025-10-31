@@ -1,3 +1,4 @@
+
 # EventSquad – Next.js + Supabase Starter
 
 Collaborative event planning with announcements/RSVP, staffing/tasks, food + recipes & allergen notes, equipment/game requests, polls, time slots, a shared photo dropbox, **and per‑event theme customization**.
